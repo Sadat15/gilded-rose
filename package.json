@@ -1,0 +1,23 @@
+{
+  "name": "gilded-rose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadat15/gilded-rose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadat15/gilded-rose/issues"
+  },
+  "homepage": "https://github.com/Sadat15/gilded-rose#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
